@@ -1,0 +1,12 @@
+{
+  "name": "markdown-editor",
+  "version": "1.0.0",
+  "description": "A simple markdown editor that exports to HTML",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
